@@ -1,0 +1,166 @@
+
+.black{
+    height: 92px;
+}
+.right{
+    font-weight: bold;
+}
+#yu1:hover{
+    color: green;
+}
+#yu2:hover{
+    color: green;
+}
+#yu3:hover{
+    color: green;
+}
+#yu4:hover{
+    color: green;
+}
+#yu5:hover{
+    color: green;
+}
+.text{
+    color: grey;
+}
+.text1{
+    color: white;
+    font-size: 40px;
+}
+.p1{
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+.p2{
+    color: white;
+
+}
+
+.btn{
+    border: solid 1px white;
+    background-color: black;
+    margin-right: 20px;
+    
+}
+.p4{
+    color: white;
+    font-size: 10px;
+    
+}
+.f5{
+    font-size: 40px;
+    font-weight: bold;
+}
+.f6{
+    font-size: 25px;
+}
+.p7{
+    margin-left: 630px;
+    font-size: 25px;
+}
+.p8{
+    color: white;
+}
+.f9{
+   
+    font-size: 40px;
+    font-weight: bold;
+}
+.f10{
+    color: white;
+    
+    font-size: 18px;
+}
+.p11{
+    color: white;
+    font-size: 18px;
+}
+.p12{
+    border-radius: 20px;
+}
+.p13{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 350px;
+}
+.f14{
+    color: white;
+}
+.card1{
+    color: pink;
+    font-size: 30px;
+    font-weight: bold;
+}
+.free{
+    border: solid 2px pink;
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 650;
+    background-color: pink;
+    color: black;
+    font-weight: bold;
+}
+.card{
+    background-color: #202020;
+    border-radius: 15px;
+}
+.try{
+    color: black;
+    font-weight: bold;
+}
+.ngn{
+    color: grey;
+}
+.free1{
+    color: grey;
+    font-size: 10px;
+}
+.free2{
+    border: solid 2px rgb(187, 156, 187);
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 650;
+    background-color: rgb(187, 156, 187);
+    color: black;
+    font-weight: bold;
+}
+.card2{
+    color: rgb(187, 156, 187);
+    font-size: 30px;
+    font-weight: bold;
+}
+.free3{
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 35px;
+    color: gold;
+    font-weight: bold;
+}
+.ngn1{
+    color: white;
+    font-weight: bold;
+}
+.try1{
+    color: black;
+    font-weight: bold;
+}
+.ngn2{
+    color: white;
+    font-weight: bold;
+}
+.card3{
+    color: lightblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.q1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.black2{
+    background-color: black;
+    height: 1000px;
+}
